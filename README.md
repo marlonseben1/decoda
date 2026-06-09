@@ -1,7 +1,5 @@
 <img src="public/logo-decoda.png" alt="deCoda logo" width="100" />
 
-<br>
-
 _decoda_ is the _core_ of my homelab side project.
 
 This repository contains information about the side-projects I am working on locally,
@@ -13,9 +11,13 @@ I am using a Ugreen Dxp2800 with 8 GB of RAM + 4 TB HDD (in mirrored setup) + 50
 
 ### Self-hosted apps
 
-#### 💸 [Coda Finances](https://github.com/marlonseben1/coda-finances) <small>— my own web app to manage my personal finances and spending, built with React and Laravel</small>
+#### 💸 [Coda Finances](https://github.com/marlonseben1/coda-finances)
 
-#### 📸 [Immich](https://immich.app/) <small>— self-hosted photo and video backup solution</small>
+<small>— my own web app to manage my personal finances and spending, built with React and Laravel</small>
+
+#### 📸 [Immich](https://immich.app/)
+
+<small>— self-hosted photo and video backup solution</small>
 
 ### Ideas for the future
 
