@@ -19,6 +19,10 @@ I am using a Ugreen Dxp2800 with 8 GB of RAM + 4 TB HDD (in mirrored setup) + 50
 
 <small>— self-hosted photo and video backup solution</small>
 
+#### 📨 [Paperless-ngx](https://docs.paperless-ngx.com/)
+
+<small>— self-hosted document management system</small>
+
 ### Ideas for the future
 
 - Creating an internal component library
